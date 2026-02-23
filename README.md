@@ -29,13 +29,13 @@ This project is a cybersecurity-focused web application that detects phishing UR
 ## Detection Results
 
 ### 🟢 Safe URL
-![Safe URL Result](safe-url-result.png)
+![Safe URL Result](safe-url-result.png.jpeg)
 
 ### 🟡 Suspicious URL
-![Suspicious URL Result](suspicious-url-result.png)
+![Suspicious URL Result](suspicious-url-result.png.jpeg)
 
 ### 🔴 Phishing URL
-![Phishing URL Result](phishing-url-result.png)
+![Phishing URL Result](phishing-url-detected.png.jpeg)
 
 ### 💻 Backend Terminal Output
-![Backend Terminal](backend-terminal.png)
+![Backend Terminal](backend-terminal.png.jpeg)
