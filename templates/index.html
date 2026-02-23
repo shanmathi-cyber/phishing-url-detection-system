@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phishing Website Detector</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <h1>🔐 Phishing Website Detector</h1>
+            <p class="subtitle">
+                Detect suspicious websites using cybersecurity rules
+            </p>
+
+            <form method="POST">
+                <input 
+                    type="text" 
+                    name="url" 
+                    placeholder="Enter website URL (https://example.com)" 
+                    required
+                >
+                <button type="submit">Analyze Website</button>
+            </form>
+
+            {% if result %}
+                <div class="result-box">
+                    {{ result }}
+                </div>
+            {% endif %}
+        </div>
+
+        <p class="footer">
+            Built with ❤️ using Python & Flask
+        </p>
+    </div>
+
+</body>
+</html>
