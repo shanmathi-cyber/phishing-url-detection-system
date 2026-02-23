@@ -25,16 +25,6 @@ This project is a cybersecurity-focused web application that detects phishing UR
 
 3. Open in browser:
    http://127.0.0.1:5000
-   ## Application Screenshots
+  
 
-### Home Page
-![Flask Backend running](Screenshot%20(515).png)
 
-### Detection Result
-![Result1](Screenshot%20(517).png)
-
-### Example 1
-![Result2](Screenshot%20(518).png)
-
-### Example 2
-![Result3](Screenshot%20(519).png)
