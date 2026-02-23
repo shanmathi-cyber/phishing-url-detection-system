@@ -25,6 +25,17 @@ This project is a cybersecurity-focused web application that detects phishing UR
 
 3. Open in browser:
    http://127.0.0.1:5000
-  
+   
+## Detection Results
 
+### 🟢 Safe URL
+![Safe URL Result](safe-url-result.png)
 
+### 🟡 Suspicious URL
+![Suspicious URL Result](suspicious-url-result.png)
+
+### 🔴 Phishing URL
+![Phishing URL Result](phishing-url-result.png)
+
+### 💻 Backend Terminal Output
+![Backend Terminal](backend-terminal.png)
